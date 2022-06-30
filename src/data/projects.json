@@ -1,0 +1,10 @@
+[
+  {
+    "title": "CryptoWorld",
+    "description": "Aplicación web que cuenta con autenticación de usuarios mediante JWT y subida de imagenes en AWS-S3. Los usuarios pueden tener sus propios blogs y crear publicaciones que luego pueden ser compartidas al público, además los usuarios pueden crear comentarios en las publicaciones de otras personas.",
+    "stack": ["react", "redux", "css", "js"],
+    "img": "crypto",
+    "github": "https://github.com/MarcosGodoydevelopped/worldcrypto",
+    "website": "https://marcosgodoydevelopped.github.io/"
+  }
+]

@@ -1,0 +1,79 @@
+.transition {
+    position: fixed;
+    bottom: -100%;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #2c2c6c;
+    background-image: url(/src/assets/bg-texture.png);
+    padding-left: 200px;
+    z-index: 1000;
+    animation-name: transitionAnimation;
+    animation-duration: 2s;
+}
+
+@keyframes transitionAnimation {
+    0% {
+        top: 0;
+    }
+    80% {
+        top: 0;
+    }
+    100% {
+        bottom: -100%;
+    }
+}
+
+.transition__text {
+    font-size: 48px;
+    text-transform: uppercase;
+    font-weight: 800;
+    padding: 10px 0;
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+    position: relative;
+    top: -100%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+
+    background-image: linear-gradient(
+        #00a1fb 0%,
+        #00a1fb 10%,
+        transparent 10%,
+        transparent 90%,
+        #00a1fb 90%,
+        #00a1fb 100%
+    );
+    background-repeat: no-repeat;
+    background-position-x: center;
+
+    animation: textAnimation 1.8s ease;
+    animation-fill-mode: forwards;
+}
+
+@keyframes textAnimation {
+    0% {
+        top: -100%;
+        background-size: 0% 100%;
+    }
+    20% {
+        top: 50%;
+        background-size: 0% 100%;
+    }
+    100% {
+        background-size: 100% 100%;
+        top: 50%;
+    }
+}
+
+@media (max-width: 768px) {
+    .transition {
+        padding-left: 0;
+        padding-bottom: 60px;
+        height: calc(100vh - 60px);
+    }
+    .transition__text {
+        font-size: 36px;
+    }
+}

@@ -1,0 +1,118 @@
+.nav_bar {
+    background-color: rgb(59, 59, 59);
+    background-image: url(/src/assets/bg-texture.png);
+    height: 100vh;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #00a1fb;
+    z-index: 10000;
+}
+
+.nav_logo {
+    background-color: rgb(59, 59, 59);
+    background-image: url(/src/assets/bg-texture.png);
+    font-size: 38px;
+    font-weight: 800;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 95px 0;
+}
+
+.nav_logo p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 10px solid #00a1fb;
+    padding: 0px;
+    border-radius: 100%;
+    width: 95px;
+    height: 95px;
+
+}
+
+.nav_logo span {
+    font-weight: 800;
+    font-size: 50px;
+    text-transform: uppercase;
+
+}
+
+.nav_items {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding-bottom: 50px;
+}
+
+.nav_item {
+    font-size: 18px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    padding: 30px 0;
+    height: 100%;
+    transition-property: background-size;
+    transition-duration: .3s;
+
+    background-image: linear-gradient(
+        #00a1fb 0%,
+        #00a1fb 50%,
+        #00a1fb 50%,
+        #00a1fb 100%
+    );
+    background-size: 0% 100%;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.nav_item:hover {
+    background-color: #fff;
+    color: black;
+}
+
+
+.nav_active {
+    background-size: 100% 100% !important;
+}
+
+@media (max-width: 768px) {
+    .nav_logo {
+        display: none;
+    }
+    .nav_bar {
+        width: 100%;
+        height: 60px;
+        top: initial;
+        bottom: 0;
+        flex-direction: row;
+        border-right: none;
+        border-top: 1px solid rgb(59, 59, 59);
+    }
+    .nav_items {
+        padding: 0;
+        gap: 0;
+        width: 100%;
+        flex-direction: row;
+    }
+    .nav_item {
+        width: 100%;
+        border: none;
+        font-size: 12px;
+        justify-content: space-between;
+        gap: 2px;
+        padding: 10px;
+        background-size: 100% 0%;
+    }
+    .nav_item:hover {
+        background-color: initial;
+    }
+}

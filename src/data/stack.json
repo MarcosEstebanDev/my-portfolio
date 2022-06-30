@@ -1,0 +1,46 @@
+[
+  {
+    "name": "HTML5",
+    "img": "html"
+  },
+  {
+    "name": "CSS3",
+    "img": "css"
+  },
+  {
+    "name": "JavaScript",
+    "img": "js"
+  },
+  {
+    "name": "Sass",
+    "img": "sass"
+  },
+  {
+    "name": "React",
+    "img": "react"
+  },
+  {
+    "name": "Redux",
+    "img": "redux"
+  },
+  {
+    "name": "NodeJs",
+    "img": "node"
+  },
+  {
+    "name": "Git",
+    "img": "git"
+  },
+  {
+    "name": "GitHub",
+    "img": "github"
+  },
+  {
+    "name": "Boostrap",
+    "img":"boostrap"
+  },
+  {
+    "name":"npm",
+    "img":"npm"
+  }
+]
