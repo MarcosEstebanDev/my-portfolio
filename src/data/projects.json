@@ -4,7 +4,7 @@
     "description": "Aplicación web criptoworld, toda la informacion actualizada de el entorno crypto, cuenta con 100 monedas. Utilice libreria antd para el diseño y interfaz, y redux para el manejo del estado global.",
     "stack": ["react", "redux", "css", "js"],
     "img": "crypto",
-    "github": "http://github.com/MarcosGodoydevelopped/worldcrypto",
+    "github": "http://github.com/MarcosGodoydevelopped/cryptoworld",
     "website": "http://marcosgodoydevelopped.github.io/"
   },
   {
@@ -12,7 +12,7 @@
     "description": "Porfolio de proyectos reales, en los que se busca mostrar habilidades de desarrollo.",
     "stack": ["react", "css", "js"],
     "img": "portfolio",
-    "github": "http://github.com/MarcosGodoydevelopped/cryptoworld",
-    "website": "http://marcosgodoydevelopped.github.io/"
+    "github": "https://github.com/MarcosGodoydevelopped/my-portfolio",
+    "website": "marcosgodoy-portfolio.netlify.app"
   }
 ]
