@@ -40,8 +40,8 @@
     "img":"boostrap"
   },
   {
-    "name":"npm",
-    "img":"npm"
+    "name":"tailwind",
+    "img":"tailwind"
   },
   {
     "name":"express",
