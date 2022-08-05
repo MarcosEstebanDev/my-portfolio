@@ -1,7 +1,7 @@
 [
   {
     "title": "Listado De Tareas",
-    "description":"",
+    "description":"Listado de tareas esta App desarrollada con Stack MERN, donde las tareas enlistadas cambian de estado, se actualizan o se eliminan. ",
     "stack": ["react","node","express","tailwind","mysql"],
     "img": "ListaTarea",
     "github": "http://github.com/MarcosGodoydevelopped/crud-react",
