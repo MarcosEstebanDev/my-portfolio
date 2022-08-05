@@ -1,5 +1,13 @@
 [
   {
+    "title": "Listado De Tareas",
+    "description":"",
+    "stack": ["react","node","express","tailwind","mysql"],
+    "img": "ListaTarea",
+    "github": "http://github.com/MarcosGodoydevelopped/crud-react",
+    "website": "http://crud-react.netlify.pp"
+  },
+  {
     "title": "CryptoWorld",
     "description": "Aplicación web criptoworld, toda la informacion actualizada de el entorno crypto, cuenta con 100 monedas. Utilice libreria antd para el diseño y interfaz, y redux para el manejo del estado global.",
     "stack": ["react", "redux", "css", "js"],
