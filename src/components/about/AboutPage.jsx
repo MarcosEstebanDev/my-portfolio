@@ -10,9 +10,10 @@ export const AboutPage = () => {
             <h2 className='subtitle'>Sobre Mí</h2>
             <div className='about'>
                 <p className='about__info'>
-                Mi nombre es Marcos Esteban Godoy, actualmente me encuentro en Cordoba, Capital, Argentina.
-                    Soy autodidacta, curioso de la tecnologia, considero estar en el constante apredizaje para lograr resolver problemas atravez del codigo. 
-                    Descubrí lo que me gusta al desarrollar interfaz de usuario, manipular estados para una efectiva interaccion con el sistema, siempre buscando un diseño, intuitivo, interactivo y atractivo. Mis principales habilidades en la tecnologia son HTML5, CSS3, JavaScript, ReactJS, teniendo preferencia por el desarrollo Frontend, Busco acompañar el proceso de evolución digital de las organizaciones, aportando todos mis conocimientos para brindar soluciones y alcanzar los mejores resultados.</p>
+                Mi nombre es Marcos Esteban Godoy, actualmente me encuentro en Cordoba, Capital, Argentina.<br/>
+                Soy autodidacta me especializo en resolver problemas atravez del codigo.<br/><br/>
+                Descubrí lo que me gusta al desarrollar interfaz de usuario, manipular estados para una efectiva interaccion con el sistema, siempre buscando un diseño, intuitivo, interactivo.<br/>
+                Busco acompañar el proceso de evolución digital de las organizaciones, aportando todos mis conocimientos para brindar soluciones y alcanzar los mejores resultados.</p>
                 <div className='about__stack'>
                     <p>Tecnologias con las que trabajo</p>
                     <ul className='stack-list'>

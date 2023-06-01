@@ -122,7 +122,7 @@ export const ContactPage = () => {
                 <div className='contact-content__extras'>
                     <a
                         className='contact-extra'
-                        href='https://www.linkedin.com/in/marcos-godoy123456/'
+                        href='https://www.linkedin.com/in/marcos-godoy92'
                         target='_blank'
                         rel='noreferrer'
                     >

@@ -1,20 +1,21 @@
 .nav_bar {
-    background-color: rgb(59, 59, 59);
-    background-image: url(/src/assets/bg-texture.png);
+    background-color: rgb(49, 49, 49);
     height: 100vh;
-    width: 200px;
+    width: 250px;
     position: fixed;
     top: 0;
     left: 0;
     display: flex;
     flex-direction: column;
+    border-style:hidden;
     border-right: 1px solid #00a1fb;
+ 
     z-index: 10000;
 }
 
 .nav_logo {
-    background-color: rgb(59, 59, 59);
-    background-image: url(/src/assets/bg-texture.png);
+    background-color: rgb(48, 48, 48);
+
     font-size: 38px;
     font-weight: 800;
     height: 150px;
@@ -60,6 +61,7 @@
     gap: 10px;
     padding: 30px 0;
     height: 100%;
+   
     transition-property: background-size;
     transition-duration: .3s;
 
