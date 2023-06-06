@@ -1,5 +1,6 @@
 import React, { useCallback } from 'react'
-import Particles from 'react-tsparticles'
+import Particles from 'react-particles'
+
 import { loadFull } from 'tsparticles'
 import './particles.css'
 import particlesContainer from './particlesContainer.js'
@@ -17,7 +18,6 @@ export  const ParticlesBackground = () => {
 return(
         <div className='particles-js'>
             <Particles
-                        
                         init={particlesInit}
                         options={particlesContainer}
             />
