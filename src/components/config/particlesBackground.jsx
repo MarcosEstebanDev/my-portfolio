@@ -17,7 +17,7 @@ export  const ParticlesBackground = () => {
 return(
         <div className='particles-js'>
             <Particles
-                        id='tsparticles'
+                        
                         init={particlesInit}
                         options={particlesContainer}
             />
