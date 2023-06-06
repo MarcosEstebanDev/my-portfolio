@@ -13,7 +13,7 @@ export const HomePage = () => {
                 <p className='info'>Software Developer</p>
                 <Link to='/contact' className='contact_btn'>Contactame</Link>
                 <div className='home__buttons'>
-                    <a href='https://github.com/MarcosGodoydevelopped' target='_blank' rel='noreferrer'>
+                    <a href='https://github.com/MarcosEstebanDev' target='_blank' rel='noreferrer'>
                         <img src='./img/github.png' alt='github logo' />
                         GitHub
                     </a>

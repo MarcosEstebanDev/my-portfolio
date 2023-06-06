@@ -1,5 +1,5 @@
 .nav_bar {
-    background-color: rgb(49, 49, 49);
+    background-color: rgba(12, 2, 15, 0.393);
     height: 100vh;
     width: 250px;
     position: fixed;
@@ -8,13 +8,13 @@
     display: flex;
     flex-direction: column;
     border-style:hidden;
-    border-right: 1px solid #00a1fb;
- 
+    border-right: 1px solid rgb(57,255,20);
+
     z-index: 10000;
 }
 
 .nav_logo {
-    background-color: rgb(48, 48, 48);
+    background-color: rgb(12,2,15);
 
     font-size: 38px;
     font-weight: 800;
@@ -29,7 +29,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border-bottom: 10px solid #00a1fb;
+    border-bottom: 10px solid rgb(57,255,20);
     padding: 0px;
     border-radius: 100%;
     width: 95px;
@@ -49,6 +49,7 @@
     flex-direction: column;
     height: 100%;
     padding-bottom: 50px;
+
 }
 
 .nav_item {
@@ -66,10 +67,10 @@
     transition-duration: .3s;
 
     background-image: linear-gradient(
-        #00a1fb 0%,
-        #00a1fb 50%,
-        #00a1fb 50%,
-        #00a1fb 100%
+        rgba(12, 2, 5, 0.605) 0%,
+        rgba(87, 35, 100, 0.527) 50%,
+        rgba(87, 35, 100, 0.527) 50%,
+        rgba(12, 2, 5, 0.605) 100%
     );
     background-size: 0% 100%;
     background-repeat: no-repeat;
@@ -78,7 +79,7 @@
 
 .nav_item:hover {
     background-color: #fff;
-    color: black;
+    color: rgb(12, 2, 5);
 }
 
 

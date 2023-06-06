@@ -8,15 +8,19 @@ import { AboutPage } from './components/about/AboutPage';
 import { ProjectsPage } from './components/projects/ProjectsPage';
 import { ContactPage } from './components/contact/ContactPage';
 
+
+
 import './index.css';
 import ScrollToTop from './components/ScrollToTop';
 
 ReactDOM.render(
     <BrowserRouter>
+   
         <ScrollToTop>
+        
             <Routes>
                 <Route path='/' element={ <Portfolio /> }>
-                    <Route 
+                    <Route
                         index
                         element={ <HomePage /> }
                     />

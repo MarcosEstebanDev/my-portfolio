@@ -4,18 +4,20 @@
 }
 
 .contact-form {
-    background-color: rgb(39, 39, 39);
+    background-color: rgba(39, 39, 39, 0.567);
     padding: 40px;
     display: flex;
     flex-direction: column;
     gap: 20px;
     width: 100%;
-    border: 1px solid #00a1fb;
+    border: 1px solid #39ff14;
 }
 
 .contact-form__title {
     font-size: 28px;
     margin-bottom: 10px;
+    justify-content: center;
+    align-items: center;
     text-align: center;
     color: rgb(255, 255, 255);
     font-weight: 800;
@@ -28,7 +30,7 @@
 
 .contact-form__input, .contact-form__textarea {
     font-family: 'Open Sans', sans-serif;
-    background-color: rgb(88, 88, 88);
+    background-color: rgba(88, 88, 88, 0.853);
     outline: none;
     border: none;
     padding: 15px;
@@ -47,8 +49,8 @@
     background-image: linear-gradient(
         transparent 0%,
         transparent 95%,
-        #00a1fb 95%,
-        #00a1fb 100%
+        #39ff14 95%,
+        #39ff14 100%
     );
 }
 
@@ -56,8 +58,8 @@
     background-image: linear-gradient(
         transparent 0%,
         transparent 99%,
-        #00a1fb 99%,
-        #00a1fb 100%
+        #39ff14 99%,
+        #39ff14 100%
     );
 }
 
@@ -95,7 +97,7 @@
 }
 
 .contact-form__button {
-    background-color: #00a1fb;
+    background-color: #39ff14;
     color: white;
     border: none;
     cursor: pointer;
@@ -107,7 +109,7 @@
 }
 
 .contact-form__button:hover {
-    background-color: #0090e4;
+    background-color: #0c020e;
 }
 
 .contact-form__button:disabled {
@@ -129,14 +131,14 @@
     padding: 20px 0;
     height: 100%;
     min-width: 200px;
-    background-color: rgb(39, 39, 39);
-    border: 1px solid #00a1fb;
+    background-color: rgba(39, 39, 39, 0.559);
+    border: 1px solid #39ff14;
     transition-property: background-color;
     transition-duration: .5s;
 } 
 
 .contact-extra:hover {
-    background-color: #00a1fb;
+    background-color: rgb(12,2,15);
 }
 
 .contact-extra__logo {
@@ -161,7 +163,7 @@
 }
 
 .msg__success {
-    background-color: #00a1fb;
+    background-color: #39ff14;
 }
 
 .msg__danger {

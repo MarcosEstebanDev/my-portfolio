@@ -4,8 +4,8 @@
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-color: rgb(46, 46, 46);
-    background-image: url(/src/assets/bg-texture.png);
+    background-color: rgb(12,2,15);
+    
     padding-left: 200px;
     z-index: 1000;
     animation-name: transitionAnimation;
@@ -38,12 +38,12 @@
     transform: translateX(-50%) translateY(-50%);
 
     background-image: linear-gradient(
-        #00a1fb 0%,
-        #00a1fb 10%,
+        #39ff14 0%,
+        #39ff14 10%,
         transparent 10%,
         transparent 90%,
-        #00a1fb 90%,
-        #00a1fb 100%
+        #39ff14 90%,
+        #39ff14 100%
     );
     background-repeat: no-repeat;
     background-position-x: center;

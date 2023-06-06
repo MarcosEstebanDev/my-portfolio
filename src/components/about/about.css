@@ -5,10 +5,10 @@
 }
 
 .about__info {
-    background-color: rgb(39, 39, 39);
+    background-color: rgba(49, 49, 49, 0.574);
     padding: 30px;
     line-height: 1.5;
-    border: 1px solid #00a1fb;
+    border: 1px solid rgb(57,255,20);
 }
 
 .about__stack {
@@ -29,19 +29,19 @@
     align-items: center;
     gap: 15px;
     padding: 20px 10px;
-    background-color: rgb(39, 39, 39);
+    background-color: rgba(39, 39, 39, 0.542);
     transition-property: background-color;
     transition-duration: .5s;
-    border: 1px solid #00a1fb;
+    border: 1px solid rgb(57,255,20);
 }
 
-.stack-list__item:hover {
-    background-color: #00a1fb;
-}
 
 .stack-list__img {
     height: 50px;
     filter: drop-shadow(0px 0px 1px rgb(126, 126, 126));
+}
+.stack-list__item:hover {
+    background-color: #0c020e;
 }
 
 .about__certificates {
@@ -49,12 +49,12 @@
 }
 
 .certificate {
-    background-color: rgb(39, 39, 39);
+    background-color: rgba(39, 39, 39, 0.518);
     padding: 20px;
     display: flex;
     justify-content: space-between;
     margin-top: 15px;
-    border: 1px solid #00a1fb;
+    border: 1px solid rgb(57,255,20);
 }
 
 .certificate__info {
@@ -67,8 +67,8 @@
     max-width: 40px;
     border-radius: 5px;
     opacity: 2.5;
-    
 }
+
 
 .certificate__link {
     display: flex;

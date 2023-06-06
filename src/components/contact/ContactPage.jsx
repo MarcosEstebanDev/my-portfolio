@@ -152,7 +152,7 @@ export const ContactPage = () => {
                     className='contact-form'
                     onSubmit={ handleSubmitForm }
                 >
-                    <h3 className='contact-form__title'>Enviame un mensaje</h3>
+                    <h3 className='contact-form__title'>Contáctame</h3>
                     <div className='contact-form__inputs'>
                         <input
                             id='name'

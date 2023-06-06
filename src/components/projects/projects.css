@@ -11,8 +11,9 @@
     gap: 20px;
     width: 100%;
     align-items: center;
-    background-color: rgb(39, 39, 39);
-    border: 1px solid #00a1fb;
+    background-color: rgba(33, 33, 33, 0.805);
+    
+    border: 1px solid rgb(57,255,20);
     padding: 30px;
 }
 
@@ -22,7 +23,7 @@
 
 .project__img {
     width: 50%;
-    border: 1px solid rgb(59, 59, 59);
+    border: 1px solid rgb(57,255,20);
 }
 
 .project__info {
@@ -51,7 +52,7 @@
 
 .project__button {
     display: block;
-    border: 1px solid white;
+    border: 1px solid rgb(57,255,20) ;
     background-color: inherit;
     padding: 10px 0;
     display: flex;
@@ -64,8 +65,8 @@
 }
 
 .project__button:hover {
-    background-color: #00a1fb;
-    border: 1px solid #00a1fb;
+    background-color:rgb(87,35,100) ;
+    border: 1px solid rgb(10,15,109)b;
 }
 
 @media (max-width: 600px) {
