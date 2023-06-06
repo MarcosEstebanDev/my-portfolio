@@ -131,7 +131,7 @@ export const ContactPage = () => {
                     </a>
                     <a
                         className='contact-extra'
-                        href='https://github.com/MarcosGodoydevelopped'
+                        href='https://github.com/MarcosEstebanDev'
                         target='_blank'
                         rel='noreferrer'
                     >
