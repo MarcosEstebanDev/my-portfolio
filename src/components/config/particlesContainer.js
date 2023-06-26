@@ -2,7 +2,7 @@
 const particlesContainer ={
   "particles": {
     "number": {
-      "value": 160,
+      "value": 100,
       "density": {
         "enable": true,
         "value_area": 800

@@ -1,11 +1,11 @@
 [
   {
-    "title": "Listado De Tareas",
-    "description":"Listado de tareas esta App desarrollada con Stack MERN, donde las tareas enlistadas cambian de estado, se actualizan o se eliminan. ",
-    "stack": ["react","node","express","tailwind","mysql"],
-    "img": "listatarea",
-    "github": "http://github.com/MarcosGodoydevelopped/crud-react",
-    "website": "http://crud-react.netlify.pp"
+    "title": "App-Gastos",
+    "description":"Applicacion desarrollada en react, utilice libreria victory para grafico de pie, el objetivo es llevar registro al dia de ingreso y egreso de capital con sus porcentajes de perdida y ganancia",
+    "stack": ["react","tailwind"],
+    "img": "gas",
+    "github": "https://github.com/MarcosEstebanDev/appgastos",
+    "website": "https://app-gasto.netlify.app/"
   },
   {
     "title": "CryptoWorld",
@@ -19,8 +19,8 @@
     "title": "Portfolio",
     "description": "Porfolio de proyectos reales, en los que se busca mostrar habilidades de desarrollo.",
     "stack": ["react", "css", "js"],
-    "img": "portfolio",
-    "github": "http://github.com/MarcosGodoydevelopped/my-portfolio",
-    "website": "http://marcosgodoy-portfolio.netlify.app"
+    "img": "port",
+    "github": "https://github.com/MarcosEstebanDev/my-portfolio",
+    "website": "http://marcosgodoy.netlify.app"
   }
 ]
