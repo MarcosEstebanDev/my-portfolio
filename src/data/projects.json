@@ -19,7 +19,7 @@
     "title": "Portfolio",
     "description": "Porfolio de proyectos reales, en los que se busca mostrar habilidades de desarrollo.",
     "stack": ["react", "css", "js"],
-    "img": "port",
+    "img": "portfolio",
     "github": "https://github.com/MarcosEstebanDev/my-portfolio",
     "website": "http://marcosgodoy.netlify.app"
   }
