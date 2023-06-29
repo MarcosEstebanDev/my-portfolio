@@ -8,7 +8,7 @@
     display: flex;
     flex-direction: column;
     border-style:hidden;
-    border-right: 1px solid rgb(57,255,20);
+    border-right: 1px solid #00ac60;
 
     z-index: 10000;
 }
@@ -29,7 +29,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border-bottom: 10px solid rgb(57,255,20);
+    border-bottom: 10px solid #00ac60;
     padding: 0px;
     border-radius: 100%;
     width: 95px;

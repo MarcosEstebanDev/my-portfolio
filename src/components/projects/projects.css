@@ -13,7 +13,7 @@
     align-items: center;
     background-color: rgba(33, 33, 33, 0.805);
     
-    border: 1px solid rgb(57,255,20);
+    border: 1px solid #00ac60;
     padding: 30px;
 }
 
@@ -23,7 +23,7 @@
 
 .project__img {
     width: 50%;
-    border: 1px solid rgb(57,255,20);
+    border: 1px solid #00ac60;
 }
 
 .project__info {
@@ -52,7 +52,7 @@
 
 .project__button {
     display: block;
-    border: 1px solid rgb(57,255,20) ;
+    border: 1px solid #00ac60 ;
     background-color: inherit;
     padding: 10px 0;
     display: flex;

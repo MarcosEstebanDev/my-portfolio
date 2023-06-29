@@ -8,7 +8,7 @@
     background-color: rgba(49, 49, 49, 0.574);
     padding: 30px;
     line-height: 1.5;
-    border: 1px solid rgb(57,255,20);
+    border: 1px solid #00ac60;
 }
 
 .about__stack {
@@ -32,7 +32,7 @@
     background-color: rgba(39, 39, 39, 0.542);
     transition-property: background-color;
     transition-duration: .5s;
-    border: 1px solid rgb(57,255,20);
+    border: 1px solid #00ac60;
 }
 
 
@@ -54,7 +54,7 @@
     display: flex;
     justify-content: space-between;
     margin-top: 15px;
-    border: 1px solid rgb(57,255,20);
+    border: 1px solid #00ac60;
 }
 
 .certificate__info {
