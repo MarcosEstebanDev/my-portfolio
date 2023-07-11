@@ -8,12 +8,12 @@
     "website": "https://app-gasto.netlify.app/"
   },
   {
-    "title": "CryptoWorld",
-    "description": "Aplicación web criptoworld, toda la informacion actualizada de el entorno crypto, cuenta con 100 monedas. Utilice libreria antd para el diseño y interfaz, y redux para el manejo del estado global.",
+    "title": "Search Coin",
+    "description": "Aplicación web Search Coin, toda la informacion actualizada de el entorno crypto, cuenta con 100 monedas.",
     "stack": ["react", "redux", "css", "js"],
-    "img": "crypto",
-    "github": "http://github.com/MarcosGodoydevelopped/cryptoworld",
-    "website": "https://criptovers.netlify.app/"
+    "img": "search",
+    "github": "http://github.com/MarcosGodoydevelopped/search",
+    "website": "https://search-coins.netlify.app/"
   },
   {
     "title": "Portfolio",
