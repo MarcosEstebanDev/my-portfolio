@@ -10,9 +10,9 @@
   {
     "title": "Search Coin",
     "description": "Aplicación web Search Coin, toda la informacion actualizada de el entorno crypto, cuenta con 100 monedas.",
-    "stack": ["react", "redux", "css", "js"],
+    "stack": ["react", "boostrap", "css", "js"],
     "img": "search",
-    "github": "http://github.com/MarcosGodoydevelopped/search",
+    "github": "https://github.com/MarcosEstebanDev/search",
     "website": "https://search-coins.netlify.app/"
   },
   {
