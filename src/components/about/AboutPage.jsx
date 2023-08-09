@@ -11,8 +11,8 @@ export const AboutPage = () => {
             <div className='about'>
                 <p className='about__info'>
                 Mi nombre es Marcos Esteban Godoy, actualmente me encuentro en Cordoba, Capital, Argentina.<br/>
-                Soy autodidacta me especializo en resolver problemas atravez del codigo.<br/><br/>
-                Descubrí lo que me gusta al desarrollar interfaz de usuario, manipular estados para una efectiva interaccion con el sistema, siempre buscando un diseño, intuitivo, interactivo.<br/>
+                Soy un desarrollador con experiencia tanto en el desarrollo Front end como Back end, así como en la
+Arquitectura de software y otras tecnologías como Javascript, Typescript, Node.js, Express, MongoDB, Sql Server, React, CSS, HTML, entre otras. He trabajado en varios proyectos y adquirido conocimientos en diversas tecnologías a través de proyectos que afirman mi conocimiento en este campo.<br/>
                 Busco acompañar el proceso de evolución digital de las organizaciones, aportando todos mis conocimientos para brindar soluciones y alcanzar los mejores resultados.</p>
                 <div className='about__stack'>
                     <p>Tecnologias con las que trabajo</p>
