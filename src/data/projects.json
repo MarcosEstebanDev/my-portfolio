@@ -2,7 +2,7 @@
   {
     "title": "Seeker",
     "description": "Buscador de usuarios de github, desarrollado con NextJS, utilice tecnologias como typescript y tailwind",
-    "stack": ["react", "tailwind", "js","typescript", "nextjs"],
+    "stack": ["react", "tailwind","typescript", "nextjs"],
     "img": "seeker",
     "github": "https://github.com/MarcosEstebanDev/seeker",
     "website": "https://seeker-psi.vercel.app/"
