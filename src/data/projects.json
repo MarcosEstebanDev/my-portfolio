@@ -1,5 +1,13 @@
 [
   {
+    "title": "Seeker",
+    "description": "Buscador de usuarios de github, desarrollado con NextJS, utilice tecnologias como typescript y tailwind",
+    "stack": ["react", "tailwind", "js","typescript", "nextjs"],
+    "img": "seeker",
+    "github": "https://github.com/MarcosEstebanDev/seeker",
+    "website": "https://seeker-psi.vercel.app/"
+  },
+  {
     "title": "App-Gastos",
     "description":"Applicacion desarrollada en react, utilice libreria victory para grafico de pie, el objetivo es llevar registro al dia de ingreso y egreso de capital con sus porcentajes de perdida y ganancia",
     "stack": ["react","tailwind"],
