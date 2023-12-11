@@ -10,10 +10,13 @@ export const AboutPage = () => {
             <h2 className='subtitle'>Sobre Mí</h2>
             <div className='about'>
                 <p className='about__info'>
-                Mi nombre es Marcos Esteban Godoy, actualmente me encuentro en Cordoba, Capital, Argentina.<br/>
-                Soy un desarrollador con experiencia tanto en el desarrollo Front end como Back end, así como en la
-Arquitectura de software y otras tecnologías como Javascript, Typescript, Node.js, Express, MongoDB, Sql Server, React, CSS, HTML, entre otras. He trabajado en varios proyectos y adquirido conocimientos en diversas tecnologías a través de proyectos que afirman mi conocimiento en este campo.<br/>
-                Busco acompañar el proceso de evolución digital de las organizaciones, aportando todos mis conocimientos para brindar soluciones y alcanzar los mejores resultados.</p>
+               ¡Hola! Soy Marcos Esteban Godoy, un apasionado desarrollador de software de Córdoba, Capital, Argentina. Tengo experiencia tanto en el desarrollo Front-end como en el Back-end, y también en la Arquitectura de software. Me siento cómodo trabajando con tecnologías como JavaScript, TypeScript, Node.js, Express, MongoDB, SQL Server, React, CSS, HTML, entre otras.
+
+A lo largo de mi trayectoria, he trabajado en diversos proyectos, lo que me ha permitido adquirir conocimientos sólidos y mantenerme actualizado en el campo del desarrollo de software. Mi objetivo es contribuir al proceso de evolución digital de las organizaciones, brindando soluciones efectivas y obteniendo los mejores resultados.
+
+Soy un profesional comprometido y siempre estoy dispuesto a enfrentar nuevos desafíos. Me encanta colaborar en equipos multidisciplinarios y me esfuerzo por mantener una comunicación efectiva. Si estás buscando un desarrollador entusiasta y altamente capacitado, estaré encantado de formar parte de tu proyecto y ayudar a alcanzar el éxito.
+
+¡Espero tener la oportunidad de trabajar juntos y hacer grandes cosas!.</p>
                 <div className='about__stack'>
                     <p>Tecnologias con las que trabajo</p>
                     <ul className='stack-list'>
