@@ -10,11 +10,11 @@ export const AboutPage = () => {
             <h2 className='subtitle'>Sobre Mí</h2>
             <div className='about'>
                 <p className='about__info'>
-               ¡Hola! Soy Marcos Esteban Godoy, un apasionado desarrollador de software de Córdoba, Capital, Argentina. Tengo experiencia tanto en el desarrollo Front-end como en el Back-end, y también en la Arquitectura de software. Me siento cómodo trabajando con tecnologías como JavaScript, TypeScript, Node.js, Express, MongoDB, SQL Server, React, CSS, HTML, entre otras.
+               ¡Hola! Soy Marcos Esteban Godoy, un apasionado desarrollador de software de Córdoba, Capital, Argentina.<br> Tengo experiencia tanto en el desarrollo Front-end como en el Back-end, y también en la Arquitectura de software. Me siento cómodo trabajando con tecnologías como JavaScript, TypeScript, Node.js, Express, MongoDB, SQL Server, React, CSS, HTML, entre otras.
 
-A lo largo de mi trayectoria, he trabajado en diversos proyectos, lo que me ha permitido adquirir conocimientos sólidos y mantenerme actualizado en el campo del desarrollo de software. Mi objetivo es contribuir al proceso de evolución digital de las organizaciones, brindando soluciones efectivas y obteniendo los mejores resultados.
+A lo largo de mi trayectoria, he trabajado en diversos proyectos, lo que me ha permitido adquirir conocimientos sólidos y mantenerme actualizado en el campo del desarrollo de software. <br> Mi objetivo es contribuir al proceso de evolución digital de las organizaciones, brindando soluciones efectivas y obteniendo los mejores resultados.
 
-Soy un profesional comprometido y siempre estoy dispuesto a enfrentar nuevos desafíos. Me encanta colaborar en equipos multidisciplinarios y me esfuerzo por mantener una comunicación efectiva. Si estás buscando un desarrollador entusiasta y altamente capacitado, estaré encantado de formar parte de tu proyecto y ayudar a alcanzar el éxito.
+Soy un profesional comprometido y siempre estoy dispuesto a enfrentar nuevos desafíos. Me encanta colaborar en equipos multidisciplinarios y me esfuerzo por mantener una comunicación efectiva.<br> Si estás buscando un desarrollador entusiasta y altamente capacitado, estaré encantado de formar parte de tu proyecto y ayudar a alcanzar el éxito.
 
 ¡Espero tener la oportunidad de trabajar juntos y hacer grandes cosas!.</p>
                 <div className='about__stack'>
